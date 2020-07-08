@@ -3,8 +3,8 @@ import java.io.*;
 
 // https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=288
 
-class Main {
-	public static void seasonalwar352 (String[] args) {
+class seasonalwar352 {
+	public static void main (String[] args) {
 		Scanner sc = new Scanner(System.in);
 		long m = 1;
 		while (sc.hasNext()) {
