@@ -1,2 +1,2 @@
 # cpcodes
-My codes from various sites that I used to practice and improve myself
+My codes from various sites that I use to practice and improve myself
